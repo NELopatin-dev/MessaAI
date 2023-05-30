@@ -1,5 +1,6 @@
 # MessaAI
 Student NLP project in the oil and gas sector based on Hugging face models.
+* Big description of project: https://www.overleaf.com/read/kmztmfthzqzw
 
 ## Tabs
 1. News
