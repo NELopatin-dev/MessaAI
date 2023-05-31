@@ -9,10 +9,6 @@ def build(app):
         wikiParser.parser().getWiki()
     )
     
-    print(
-        df
-    )
-
     return pg.build_Section(
         style={
             'maxHeight': 'calc(100vh - 130px)',

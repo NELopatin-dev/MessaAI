@@ -62,5 +62,5 @@ class App:
         pg.callbacks_init(app)
         callbacks.init(app, self)
         
-        # Timer(1, self.open_browser()).start()
+        Timer(1, self.open_browser()).start()
         app.run_server(port=self.appPort)
